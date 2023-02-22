@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CiscoNeville
-- 👀 I’m interested in college football, PERL
-- 🌱 I’m currently learning MBA
-- 💞️ I’m looking to collaborate on college football betting
+- 👀 I’m interested in college football, PERL (yes, dinasour ancient PERL)
+- 💞️ I’m looking to collaborate on college football data driven analysis
 - 📫 How to reach me neville @ Agafamily . com
 
 <!---
